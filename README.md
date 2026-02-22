@@ -25,5 +25,3 @@
 * Configuração de fontes de conhecimento para fundamentar respostas
 * Ajuste de prompts em nós generativos para fornecer contexto
 * Resultado: controle de precisão, criatividade e detalhamento das respostas
-
-👉 Esses pontos representam o fluxo básico de criação e refinamento de agentes no **Microsoft Copilot Studio**.
